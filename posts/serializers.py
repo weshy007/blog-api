@@ -1,5 +1,3 @@
-from statistics import mode
-from attr import field
 from rest_framework import serializers
 from .models import Post
 
